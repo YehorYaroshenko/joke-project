@@ -1,0 +1,12 @@
+.purchase {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 90vh;
+}
+.purchase h2 {
+   text-align: center;
+   margin-top: 10px;
+}
+
